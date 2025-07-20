@@ -1,5 +1,9 @@
 import React, { useState, useCallback, useEffect } from 'react';
+<<<<<<< HEAD
 import { Header } from './components/Header';
+=======
+import { Header } from './components/Header.tsx';
+>>>>>>> 2bfdd2dbdcc0eefe80938e79eb9a5f3edb1f24bf
 import { InputPanel } from './components/InputPanel';
 import { FlashcardGrid } from './components/FlashcardGrid';
 import { FlashcardModal } from './components/FlashcardModal';
