@@ -1,0 +1,6 @@
+{
+  "name": "Générateur de Fiches de Révision AI",
+  "description": "Créez des fiches de révision (flashcards) instantanément à partir de vos documents ou en utilisant la recherche web. L'IA analyse le contenu et génère des paires question/réponse pour vous aider à étudier plus efficacement.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
